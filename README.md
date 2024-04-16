@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi , I'm Nhut
+    Hi , I'm VINH
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
  
@@ -8,7 +8,7 @@
         src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
 </p>
 <p align="center">
-<a href="https://github.com/phamnhutnpx">
+<a href="https://github.com/QuangVinh555">
 <img
             src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Vo+Quang+Vinh;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
 </a>
