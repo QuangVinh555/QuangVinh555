@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/QuangVinh555">
 <img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Vo+Quang+Vinh;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
+            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Vo+Quang+Vinh;I'm+a+Fullstack+web+developer&center=true&width=500&height=50">
 </a>
 </p>
  
