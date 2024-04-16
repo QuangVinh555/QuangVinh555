@@ -40,7 +40,7 @@
 </span>
 <br>
 <span align="center">
-<a href="mailto:voquangvinh555@gmail.com"><img img
+<a href="voquangvinh555@gmail.com"><img img
                     src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
                     alt="Gmail" /></a>
 <a href="https://github.com/QuangVinh555"><img
