@@ -1,68 +1,52 @@
-<h1 align="center">
-    Hi , I'm VINH
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
- 
-<p align="center">
-<img width="10%" align="center" alt="PIC" height="100%"
-        src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
-</p>
-<p align="center">
-<a href="https://github.com/QuangVinh555">
-<img
-            src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Vo+Quang+Vinh;I'm+a+Fullstack+web+developer&center=true&width=500&height=50">
-</a>
-</p>
- 
-<br>
-<br>
 <div align="center">
-<a align="center" href="https://github.com/QuangVinh555?tab=repositories" title="quangvinh555">
-<img width="49%"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuangVinh555&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-<a align="center" href="https://github.com/QuangVinh555" title="NPX-official">
-<img width="49%"
-            src="https://github-readme-stats.vercel.app/api?username=QuangVinh555&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Hi,%20I'm%20Vo%20Quang%20Vinh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;3%2B+n%C4%83m+kinh+nghi%E1%BB%87m;Lu%C3%B4n+h%E1%BB%8Dc+c%C3%B4ng+ngh%E1%BB%87+m%E1%BB%9Bi)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=vinhvq&style=flat-square&color=8b5cf6" alt="Profile views" />
+
 </div>
+
 <br>
-<br>
- 
-<div class="footer">
-<!-- connect -->
-<div >
-<span>
-<b>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-                Connect with me 🤝
-</b>
-</span>
-<br>
-<span align="center">
-<a href="voquangvinh555@gmail.com"><img img
-                    src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
-                    alt="Gmail" /></a>
-<a href="https://github.com/QuangVinh555"><img
-                    src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"
-                    alt="GitHub" /></a>
-<a href="https://www.youtube.com"><img
-                    src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white"
-                    alt="Youtube" /></a>
-<a href="https://www.facebook.com/voquangvinh.vn"><img
-                    src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white"
-                    alt="Facebook" /></a>
-<a href="https://www.instagram.com/voquangvinh.vn/"><img
-                    src="https://img.shields.io/badge/instagram-%F58529.svg?style=plastic&logo=instagram&logoColor=white"
-                    alt="Instagram" /></a>
-</span>
+
+<div align="center">
+
+🚀 **Fullstack Developer**&nbsp; · &nbsp;💼 **3+ năm kinh nghiệm**&nbsp; · &nbsp;🌱 **Luôn học công nghệ mới**
+
 </div>
+
 <br>
-<!-- visit -->
-<div>
-<span><b>❤️ Visit github</b></span>
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
 <br>
-<img  src="https://profile-counter.glitch.me/%7BQuangVinh555%7D/count.svg"></img>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vinhvq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhvq&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhvq&theme=tokyonight&hide_border=true" width="60%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhvq&theme=tokyo-night&hide_border=true" width="90%" />
+
 </div>
- 
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinhvq/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:voquangvinh555@gmail.com)
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" />
