@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;3%2B+n%C4%83m+kinh+nghi%E1%BB%87m;Lu%C3%B4n+h%E1%BB%8Dc+c%C3%B4ng+ngh%E1%BB%87+m%E1%BB%9Bi)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=vinhvq&style=flat-square&color=8b5cf6" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=QuangVinh555&style=flat-square&color=8b5cf6" alt="Profile views" />
 
 </div>
 
@@ -20,25 +20,35 @@
 
 <div align="center">
 
+🛠️ **Tech Stack**
+
+**Frontend**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+**Backend**
+
+![.NET](https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**ERP**
+
+![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinhvq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhvq&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinhvq&theme=tokyonight&hide_border=true" width="60%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhvq&theme=tokyo-night&hide_border=true" width="90%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:8b5cf6&height=3&section=header" width="100%" />
 
 <br>
 
